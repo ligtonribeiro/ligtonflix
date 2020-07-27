@@ -1,6 +1,6 @@
 # Ligtonflix
 
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)]
+![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)
 
 <p align="center">
   <img alt="Logo do projeto" width="150px" src="./src/assets/img/Logo.png" />
